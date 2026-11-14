@@ -1,0 +1,5 @@
+rdflib
+pgmpy
+scikit-fuzzy
+pyperplan
+matplotlib
